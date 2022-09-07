@@ -24,7 +24,7 @@ window.onload = function() {
         var join = {
           "type": "join",
           "id": "4bf7a7bc-8529-4984-b246-da04542741fa",
-          "username": "ASDFG",
+          "username": "srhernandez1",
           }
         socket.send(JSON.stringify(join));
     };
