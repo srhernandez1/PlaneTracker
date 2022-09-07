@@ -1,0 +1,25 @@
+#chat{
+    font: 12px sans-serif;
+    border: 1px solid gold;
+    background: lightyellow;
+    padding: 5px;
+    width: 580px;
+    height: 630px;
+    float: left;
+    margin: 5px;
+    overflow-y: scroll;
+}
+
+#pos_chat{
+    position: absolute;
+    top: 80px;
+    right: 100px;
+    width: 600px;
+    height: 750px;
+    border: 3px solid #73AD21;
+}
+
+#map { 
+    height: 800px; 
+    width: 1250px;
+}
